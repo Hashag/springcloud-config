@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: version2-test
